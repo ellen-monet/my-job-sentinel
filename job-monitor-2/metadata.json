@@ -1,0 +1,5 @@
+{
+  "name": "Job Monitor",
+  "description": "An intelligent dashboard that monitors institutional websites for new job postings using Gemini AI to parse unstructured content.",
+  "requestFramePermissions": []
+}
